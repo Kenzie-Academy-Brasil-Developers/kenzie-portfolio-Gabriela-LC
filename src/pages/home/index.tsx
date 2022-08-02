@@ -32,10 +32,10 @@ export const Home = (): JSX.Element => {
         <Container>
           <HeaderContent>
             <Text as="h1" type="heading1" color="grey5">
-              Criando experiências por meio da tecnologia{" "}
+              Oi, sou a Gabriela!{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
+              Sou estudante de desenvolvimento web FullStack na Kenzie Academy Brasil, já conclui o Front-end e estou atualmente na formação de Back-end. Participei
               de diversos projetos resolvendo problemas de alto nível e
               desenvolvendo habilidades
             </Text>
@@ -52,7 +52,7 @@ export const Home = (): JSX.Element => {
       </Header>
       <StackSection id="tecnologias">
         <Container>
-          <Text as="h4" type="heading3" color="grey1">
+          <Text as="h4" type="heading3" color="brand1">
             Ferramentas que domino
           </Text>
           <StackCards>
@@ -70,9 +70,7 @@ export const Home = (): JSX.Element => {
                 Vamos trocar uma ideia?
               </Text>
               <Text as="p" type="body1" color="grey2">
-                No linkedIn sempre estou compartilhando meus processos diários
-                para desenvolver esses projetos e estou disposto a trocar
-                algumas ideias por lá
+                
               </Text>
               <Button
                 type="primary"
@@ -88,7 +86,7 @@ export const Home = (): JSX.Element => {
                 Projetos
               </Text>
               <Text as="h3" type="heading2" color="grey1">
-                Originalidade e{" "}
+                Muita{" "}
                 <Text as="span" color="brand1" type="heading2">
                   dedicação
                 </Text>{" "}

@@ -38,3 +38,8 @@ export const ProjectLink = styled("a", {
     marginRight: "$1"
   }
 });
+
+export const Dividor = styled("div", {
+  marginTop: "2.25rem",
+  borderTop: "1px solid $brand1"
+});
